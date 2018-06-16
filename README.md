@@ -5,7 +5,7 @@ Recovers weak LEAP password.  Pronounced "asleep".
 
 ### Changelog
 
-#### 2018-06-17
+#### 2018-06-17 @ Matt Moran
 
 Slightly updated to compile and run on Windows. Requires Cygwin (32bit) with _make_ and _openssl_devel_ installed.
 Copy `copy_this_to_cygwin-lib` to `cygwin\lib` to install Winpcap.
